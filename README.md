@@ -20,4 +20,4 @@ Embedded methods combine the qualities of filter and wrapper methods. It’s imp
 - Correlation Matrix Heatmap
 - Feature Importance (Tree based models)
 - PCA (Dimensionality Reduction)
-- Pair plot, Scatter plot
+- Pair plot
